@@ -1,0 +1,246 @@
+.topdiv{
+	position:absolute;
+	top:230px;
+	padding-top:15px;
+	text-align:center;
+    height:60px;
+	width:100%;
+	background-color:#f5f5f5;
+}
+.topdiv1content{
+	color:#666666;
+	font-size:13px;
+	text-align:center;
+	
+}
+.link{
+	text-decoration:none;
+	color:#666666;
+}
+
+.topdiv1content:hover {
+	background-color:#0094df;
+	color:white;
+	height:50px;
+	box-shadow: 5px 8px 10px #888888;
+}
+
+.topdiv1contentone{
+	color: #000000d4;
+	font-size:13px;
+	text-align:center;
+	background-color:white;
+	box-shadow: 5px 8px 10px #888888;
+	height:50px;
+}
+
+.banner{
+	padding-left:15%;
+	padding-right:15%;
+	width:70%;
+	height:auto;
+}
+
+.inputclass{
+	border: 1px solid #0000002e;
+    width: 910px;
+    height: 30px;
+    border-radius: 5px;
+	color:#0000006b;
+}
+
+.footerdiv{
+	background-color:#3498db;
+	color:white;
+	width:100%;
+	height:auto;
+}
+
+.rounddiv{
+	position:absolute;
+	top: 960px;
+	right:50%;
+	width:60px;
+	height:60px;
+	border:none;
+	border-radius:100%;
+	
+}
+
+.form-control {
+  display: block;
+  width: 100%;
+  height: 34px;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #555;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: auto;
+}
+
+
+
+
+
+
+
+
+
+
+.topdivbox{
+
+    width: 100%;
+    height: auto;
+    border: none;
+    display: block;
+    float: left;
+    display: block;
+	
+
+}
+.topdivboxleft{
+  width: 52%;
+  height: 600px;
+  border: none;
+  float: inline-start;
+  margin-left:10%;
+ text-align: right;
+ color:#000000c2;
+  
+}
+.topdivboxright{
+
+    width: 25%;
+    height: 600px;
+    border: none;
+    float: inline-end;
+    position: absolute;
+   right:0%;
+	margin-right:10.6%;
+	color:#00000036;
+
+}
+.topdivboxright h3 {
+	color:#000000bd;
+}
+.topdivboxright h4 {
+	color:#000000bd;
+}
+.topdivboxright hr {
+	border-bottom: 0.5 px solid #0f0e0e2e;
+}
+
+.unorderlist{
+	margin-left:7%;
+	margin-right:9%;
+	list-style-type:none;
+	font-size:small;
+	
+}
+
+.listoflitem1{
+	
+  
+  position: relative;
+ float: left;
+}
+.button00{
+	border:none;
+	background-color:transparent;
+	color:#0066cc;
+	
+}
+.button00:hover {
+     border: 3px solid #0000001c;
+     border-radius: 25px;
+     color: #0000;
+     background-color: #0194df;
+}
+
+.listoflitem2{
+	
+  padding-left: 8%;
+}
+.unorderlist a {
+	text-decoration:none;
+}
+.unorderlist hr {
+	border-bottom: 1px solid #0f0e0e2e;
+	
+}
+.inputclass1{
+	border: 1px solid #0000002e;
+    width: 550px;
+    height: 30px;
+    border-radius: 5px;
+	color:#0000006b;
+	font-size:small;
+}
+ 
+.textarea {
+	position:relative;
+	border: 1px solid #0000002e;
+    width: 550px;
+    height: 100px;
+    border-radius: 5px;
+	color:#0000006b;
+	font-size:small;
+	
+}
+.rounddivcontact{
+	position:absolute;
+	top: 1028px;
+	right:50%;
+	width:60px;
+	height:60px;
+	border:none;
+	border-radius:100%;
+	
+}
+
+.robortdiv{
+	position: absolute;
+    top: 806px;
+    right: 59%;
+    width: 267px;
+    height: 90px;
+    background-color: #00000005;
+    border: 1 px solid #ffff;
+	text-align:center;
+	
+}
+
+.robortdiv input{
+	position:absolute;
+	left:3%;
+	top:37%;
+}
+.robortdiv p {
+	position:absolute;
+	left:20%;
+	top:18%;
+}
+.robortdiv img {
+	position:absolute;
+	left:65%;
+	top:3%;
+}
+.robortdiv button{
+	position: absolute;
+left: 3%;
+top: 122%;
+background-color: #337ab7;
+width: 50px;
+height: 30px;
+color: white;
+font-size:small;
+border:none;
+border-radius:5px;
+}
+
+.robortdiv button:hover{
+	background-color:#3360b7eb

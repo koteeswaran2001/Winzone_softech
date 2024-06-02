@@ -1,0 +1,253 @@
+.topdiv{
+	position:fixed;
+	top:0%;
+	padding-top:15px;
+	text-align:center;
+    height:60px;
+	width:100%;
+	background-color:#f5f5f5;
+	
+}
+.topdiv1content{
+	color:#666666;
+	font-size:15px;
+	text-align:center;
+	font: inherit;
+	
+	
+}
+.link{
+	text-decoration:none;
+	color:#666666;
+}
+
+.topdiv1content:hover {
+	background-color:#0094df;
+	color:white;
+	height:50px;
+	box-shadow: 5px 8px 10px #888888;
+}
+
+.topdiv2{
+	background-color:#0094df;
+	width:100%;
+	height:500px;
+	text-align:center;
+}
+.bannercontent{
+	color:white;
+	font-size:45px;
+}
+.bannercontent1{
+	color:#aaebff;
+	font-size:25px;
+}
+
+.button {
+  background-color: #5bc0de;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius:6px;
+}
+.button:hover {
+	background-color:#46b8da;
+}
+
+.domaindiv{
+	background-color:white;
+	width:100%;
+	height:250px;
+	text-align:center;
+	border:none;
+	box-shadow: 0px 0px 10px  #888888;
+	padding-top:35px;
+}
+
+.domaindivcontent{
+	font-size:23px;
+	color: #333333;
+}
+.domaindivcontent1{
+	font-size:25px;
+	color:#3598dc;
+}
+
+#domain{
+	padding-left:10%;
+	padding-right:10%;
+	text-align:justify;
+}
+
+.gfont{
+  font-family: 'Indie Flower';
+  font-size: 30px;
+  text-shadow: 0px 5px 10px #0d0101ad;
+  color: #000000a3;
+ }
+ 
+.para1{
+	font-family: 'Indie Flower';
+	padding-right:400px;
+	font-size:30px;
+	color: #000000c7;
+}
+.tablehead{
+	
+	color:#00aeef;
+}
+.tablehead:hover {
+	border:4px solid #00aeef;
+	background-color:#c8c8c8;
+	color:white;
+	border-radius:100%;
+}
+.body {
+  background-image:url('../image/winzoneweb/background.jpg') !important;
+  background-position: center;
+  width:100%;
+  height:auto;
+  text-align:justify;
+}
+
+.container { 
+  height: auto;
+  width:60%;
+  margin-left:10%;
+  border: 3px solid #dddddd; 
+  padding-left:30px;
+  padding-right:30px;
+  color:#999999c7;
+  line-height:20px;
+  font-size: 0.85em;
+  background-color:white;
+}
+
+
+ 
+ .vertical-center-button{
+	 width:200px;
+	 height:40px;
+	 background-color:#00aeef;
+	 color:white;
+	 border-radius:15px;
+ }
+ 
+ .vertical-center-button:hover {
+	 background-color:blue;
+	 border-left-color:black;
+	 border-right-color:black;
+	 border-top-color:black;
+ }
+ 
+ .vertical-center {
+  text-align:center;
+  position: absolute;
+  height:40px;
+  width:200px;
+  top: 2106px;
+ right:71%;
+ }
+ 
+ .vertical-center1 {
+  text-align:center;
+  position: absolute;
+  height:40px;
+  width:200px;
+  top: 2090px;
+  right: 43%;
+}
+ .vertical-center2 {
+  text-align:center;
+  position: absolute;
+  height:40px;
+  width:200px;
+  top: 2095px;
+  right: 15%;
+}
+
+.vertical-center3 {
+  text-align:center;
+  position: absolute;
+  height:40px;
+  width:200px;
+ top: 2639px;
+ right:71%;
+ }
+ 
+ .vertical-center4 {
+  text-align:center;
+  position: absolute;
+  height:40px;
+  width:200px;
+  top: 2615px;
+  right: 43%;
+}
+ .vertical-center5{
+  text-align:center;
+  position: absolute;
+  height:40px;
+  width:200px;
+  top: 2623px;
+  right: 15%;
+}
+.vertical-center6 {
+  text-align:center;
+  position: absolute;
+  height:40px;
+  width:200px;
+ top: 3270px;
+ right:71%;
+ }
+ 
+ .vertical-center7 {
+  text-align:center;
+  position: absolute;
+  height:40px;
+  width:200px;
+  top: 3300px;
+  right: 43%;
+}
+ .vertical-center8{
+  text-align:center;
+  position: absolute;
+  height:40px;
+  width:200px;
+  top: 3255px;
+  right: 15%;
+}
+
+.button0 {
+  background-color: #337ab7;
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  border-radius:6px;
+  margin-left:80px;
+}
+.footerdiv{
+	background-color:#3498db;
+	color:white;
+	width:100%;
+	height:auto;
+}
+
+.rounddiv{
+	position:absolute;
+	top: 5720px;
+	right:50%;
+	width:60px;
+	height:60px;
+	border:none;
+	border-radius:100%;
+	
+}
+
